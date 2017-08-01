@@ -1,0 +1,2 @@
+# Monstri
+Analiza Yugioh pošasti
